@@ -1,0 +1,48 @@
+Partlist
+
+Exported from usb-shock-buzzer.sch at 2016/06/03 0:33
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device         Package        Library           Sheet
+
+C1       4.7u           C-EUC0805      C0805          rcl               1
+C2       0.22u          C-EUC0805      C0805          rcl               1
+C3       1u             C-EUC0805      C0805          rcl               1
+C4       0.1u           C-EUC0805      C0805          rcl               1
+C5       0.1u           C-EUC0805      C0805          rcl               1
+C6       0.1u           C-EUC0805      C0805          rcl               1
+C7       4.7u           C-EUC0805      C0805          rcl               1
+IC1      PIC18F14K50    PIC18F14K50    SO20           pic18f14k50       1
+IC2      ADXL213        ADXL213        LCC8           adxl213           1
+IC3      AE-NJU72501    AE-NJU72501    AE-NJU72501    ae-nju72501       1
+IC4      MCP73831       MCP73831       SOT23-5L       microchip-update  1
+IC5      CAT24M01       CAT24M01       SOIC           cat24m01          1
+IC6      MAX882SA       MAX882SA       8-SO           max882            1
+JP3                     PINHD-1X2      1X02           pinhead           1
+JP4                     PINHD-1X2      1X02           pinhead           1
+JP5                     PINHD-2X2      2X02           pinhead           1
+LED1     KM-23YSGC      KM-23YSGC      KM-23YSGC      led-smd           1
+LED2                    2COLOR-BR      SML-02         led-smd           1
+R1       2.2k           R-US_M0805     M0805          rcl               1
+R2       10k            R-US_M0805     M0805          rcl               1
+R3       10k            R-US_M0805     M0805          rcl               1
+R4       1M             R-US_R0805     R0805          rcl               1
+R5       150k           R-US_M0805     M0805          rcl               1
+R6       470k           R-US_M0805     M0805          rcl               1
+R7       10k            R-US_M0805     M0805          rcl               1
+R8       1M             R-US_M0805     M0805          rcl               1
+R9       220k?          R-US_M0805     M0805          rcl               1
+R10      1k             R-US_M1206     M1206          rcl               1
+R11      1k             R-US_M0805     M0805          rcl               1
+R12      220k           R-US_M0805     M0805          rcl               1
+R13      500?           R-US_M0805     M0805          rcl               1
+R14      500?           R-US_M0805     M0805          rcl               1
+R15      500?           R-US_M0805     M0805          rcl               1
+R16      500?           R-US_M0805     M0805          rcl               1
+SP1      PKLCS1212E4001 PKLCS1212E4001 PKLCS1212E4001 pklcs1212e4001-r1 1
+SW1                     TVBP06         TVBP06         switches          1
+USB                     TYPE-A+SHILED  TYPE-A         usb-connector     1
+XTAL1    12MHz          CSTCE12M0G15L  CSTCE          murata-ceralok    1
